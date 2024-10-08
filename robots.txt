@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ejdawa.github.io/Era/sitemap.Era.gz
